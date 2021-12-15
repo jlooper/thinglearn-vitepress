@@ -1,0 +1,18 @@
+{
+  "name": "thinglearn-vitepress",
+  "version": "1.0.0",
+  "description": "ThingLearn - IoT for Fun",
+  "main": "index.js",
+
+    "scripts": {
+      "docs:dev": "vitepress dev docs",
+      "docs:build": "vitepress build docs",
+      "docs:serve": "vitepress serve docs"
+    },
+  
+  "author": "Jen Looper",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^0.20.9"
+  }
+}
