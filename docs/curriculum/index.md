@@ -1,2 +1,6 @@
+---
+layout: PageLayout
+---
+
 # Curriculum
 

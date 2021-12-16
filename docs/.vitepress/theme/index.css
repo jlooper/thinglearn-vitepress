@@ -7,13 +7,20 @@
     --code-inline-bg-color: rgb(92, 91, 91);
   }
 
-  
   body {
       background-color: var(--dark-blue);
       color: var(--c-white);
       font-size: 20px;
   }
 
+  .logo {
+    display:none;
+  }
+
+  .home {
+    background-color: var(--dark-blue);
+    color: var(--c-white);
+  }
   .page {
     background-color: var(--c-text);
     color: var(--c-bg);

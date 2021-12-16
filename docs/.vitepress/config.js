@@ -10,15 +10,15 @@ module.exports = {
   ],
   base: base,
   themeConfig: {
-    repo: 'jlooper/thinglearn-vitepess',
+    repo: 'jlooper/thinglearn-vitepress',
     logo: '/logo.png',
     docsDir: 'docs',
     docsBranch: 'main',
 
     algolia: {
-      appId: 'X51HWTCQJJ',
-      apiKey: 'ca20f15eb8a667898b65d13f4213ae3d',
-      indexName: 'vitepress-demo'
+      appId: '89PWIN4BO3',
+      apiKey: '4cdec05c2f0cd945910782c42ce3a9ab',
+      indexName: 'thinglearn'
     },
 
     // nav
