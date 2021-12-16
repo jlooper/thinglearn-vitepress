@@ -6,9 +6,9 @@ footer: MIT Licensed | Copyright © 2012-present Jen Looper
 ---
 <section class="home">
   <div class="card-grid">
-    <card-component class="card" title="Beginner Projects" color="#ff6300" image="./r1.png"/>
-    <card-component class="card" title="Intermediate Projects" color="blue" image="./r2.png"/>
-    <card-component class="card" title="Advanced Projects" color="green" image="./r3.png"/>
+    <card-component class="card" title="Beginner Projects" color="#ff6300" image="./r1.png" link="/projects/beginner"/>
+    <card-component class="card" title="Intermediate Projects" color="blue" image="./r2.png" link="/projects/intermediate" />
+    <card-component class="card" title="Advanced Projects" color="green" image="./r3.png" link="/projects/advanced" />
   </div>
 </section>
 

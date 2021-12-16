@@ -2,6 +2,7 @@ const { getPath } = require('./utils')
 
 module.exports = {
   [getPath('/curriculum/')]: getCurriculumSidebar(),
+  [getPath('/projects/')]: getProjectsSidebar(),
 }
 
 function getCurriculumSidebar() {
@@ -34,7 +35,43 @@ function getCurriculumSidebar() {
           link: '/curriculum/soldering'
         },
       ]
+    },
+    
+  ]
+}
+
+function getProjectsSidebar() {
+  return [
+    {
+      text: 'Projects',
+      children: [
+        {
+          text: 'Beginner Projects',
+          link: '/projects/beginner',
+          children: [
+            {
+              text: 'Squishy Circuits', 
+              link: '/projects/squishy-circuits'
+            },
+            {
+              text: 'Paper Circuits', 
+              link: '/projects/paper-circuits'
+            },
+          ]
+        },
+        {
+          text: 'Intermediate Projects',
+          link: '/projects/intermediate'
+        },
+        {
+          text: 'Advanced Projeccts',
+          link: '/projects/advanced'
+        },
+        
+        
+      ]
     }
+    
   ]
 }
 
