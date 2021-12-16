@@ -1,0 +1,26 @@
+:root {
+    --c-bg: #0B80D9;
+    --green: #3F9F3F;
+    --c-text-light: white;
+    --dark-blue: #3F95D9;
+    --c-text: white;
+    --code-inline-bg-color: rgb(92, 91, 91);
+  }
+
+  
+  body {
+      background-color: var(--dark-blue);
+      color: var(--c-white);
+      font-size: 20px;
+  }
+
+  .page {
+    background-color: var(--c-text);
+    color: var(--c-bg);
+  }
+
+  .home-features {
+    background-color: var(--green);
+    min-width: 100%;
+  }
+  
