@@ -26,7 +26,7 @@ When your IDE is properly configured to support the Trinket board, you should be
 
 Plug the small end of the USB cord into the Trinket microprocessor and the large USB plug into your computer. The Trinket should light up, as it is now drawing power via the USB cord.
 
-![programming 2](/essentials/programming-2.png)
+![programming 2](/essentials/programming-2.jpg)
 
 
 #### Step 3: Take a look at some sample code
