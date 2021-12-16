@@ -16,9 +16,9 @@ module.exports = {
     docsBranch: 'main',
 
     algolia: {
-      appId: '89PWIN4BO3',
-      apiKey: '4cdec05c2f0cd945910782c42ce3a9ab',
-      indexName: 'thinglearn'
+      appId: 'BH4D9OD16A',
+      apiKey: 'c25b29f527f1abc4702d8a2f8cd0ac68',
+      indexName: 'jenlooper'
     },
 
     // nav
