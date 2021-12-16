@@ -15,7 +15,7 @@ function getCurriculumSidebar() {
         },
         {
           text: 'What is a Circuit?',
-          link: '/curriculum/circuit'
+          link: '/curriculum/circuits'
         },
         {
           text: 'What is Electricity?',
