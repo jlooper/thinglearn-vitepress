@@ -14,12 +14,7 @@ module.exports = {
     logo: '/logo.png',
     docsDir: 'docs',
     docsBranch: 'main',
-
-    algolia: {
-      appId: 'BH4D9OD16A',
-      apiKey: 'c25b29f527f1abc4702d8a2f8cd0ac68',
-      indexName: 'jenlooper'
-    },
+    search: false,
 
     // nav
     nav,
