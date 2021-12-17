@@ -25,11 +25,11 @@ footer: MIT Licensed | Copyright © 2012-present Jen Looper
   .card-grid {
     display:flex;
     justify-content:center;
+    flex-wrap: wrap;
   }
   .card {
-    width: 300px;
     height: 300px;
-    margin:10px;
-    padding: 10px;
+    width: 300px;
+    margin: 2px;
   }
 </style>
