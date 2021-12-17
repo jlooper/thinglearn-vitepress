@@ -14,11 +14,11 @@ In the process, they are encouraged to learn programming basics and expand their
 
 Visit the Essentials section to learn about the basic concepts taught by each project, such as basic circuit-building and how electricity works.
 
-You can also purchase parts for each project via links at the top of each project page.
+You can also purchase parts for each project via links at the top of each project page hosted on Hackster.io.
 
 ThingLearn is proud to partner with Hackster.io who hosts our projects.
 
 <div>
-<img style="margin:10px" height="200px" src="../jen.jpg" alt="Jen Looper">
-<img style="margin:10px"  height="200px"  src="../qing.jpg" alt="Qing Hu">
+<img style="margin:10px" height="200px" src="/jen.jpg" alt="Jen Looper">
+<img style="margin:10px"  height="200px"  src="/qing.jpg" alt="Qing Hu">
 </div>

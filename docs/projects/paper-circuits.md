@@ -1,5 +1,6 @@
 # Make a Light-Up Greeting Card
 
+Create a flashing greeting card that will make anyone smile, using copper conductive tape and sticky LED lights from Chibitronics.
 
 ![card](/projects/card.png)
 

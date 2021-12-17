@@ -57,15 +57,53 @@ function getProjectsSidebar() {
               text: 'Paper Circuits', 
               link: '/projects/paper-circuits'
             },
+            {
+              text: 'LED Compact', 
+              link: '/projects/led-compact'
+            },
+            {
+              text: 'LED Hair Bow', 
+              link: '/projects/sewable-led-bow'
+            },
+            {
+              text: 'Book light', 
+              link: '/projects/book-light'
+            },
           ]
         },
         {
           text: 'Intermediate Projects',
-          link: '/projects/intermediate'
+          link: '/projects/intermediate',
+          children: [
+            {
+              text: 'Kid Summponer', 
+              link: '/projects/kid-summoner'
+            },
+            {
+              text: 'Plant Moisture Sensor', 
+              link: '/projects/plant-moisture-sensor'
+            },
+            {
+              text: 'Laptop Bling', 
+              link: '/projects/laptop-bling'
+            },
+          
+          ]
         },
         {
           text: 'Advanced Projeccts',
-          link: '/projects/advanced'
+          link: '/projects/advanced',
+          children: [
+            {
+              text: 'Smart Bird Feeder', 
+              link: '/projects/smart-birdfeeder'
+            },
+            {
+              text: 'Beacon Box', 
+              link: '/projects/beacon-box'
+            },
+            
+          ]
         },
         
         

@@ -19,3 +19,5 @@ Go to [Adafruit](https://adafruit.com) when you need to buy the bits and pieces 
 ## IoT For Beginners Curriculum
 
 Built by a team at Microsoft, this [full curriculum](https://aka.ms/iot-beginners) takes you from farm to table with IoT. Highly recommended!
+
+![robot](/r2.png)
