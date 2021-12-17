@@ -17,3 +17,8 @@ Visit the Essentials section to learn about the basic concepts taught by each pr
 You can also purchase parts for each project via links at the top of each project page.
 
 ThingLearn is proud to partner with Hackster.io who hosts our projects.
+
+<div>
+<img style="margin:10px" height="200px" src="../jen.jpg" alt="Jen Looper">
+<img style="margin:10px"  height="200px"  src="../qing.jpg" alt="Qing Hu">
+</div>
